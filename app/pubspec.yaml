@@ -1,0 +1,5 @@
+name: barcode
+version: 0.0.1
+description: A simple console application.
+dependencies:
+  http:
